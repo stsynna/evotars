@@ -55,7 +55,7 @@ e. Set the source setting FPS to 60 for smoother animation (optional).
 
 ## 💬 Using Chat Commands
 
-Enable Twitch chat commands for evotars in the [Evotar Admin Panel](https://evotars.inferst.com) here: [Commands](https://evotars.inferst.com/admin/commands)
+Enable Twitch chat commands for evotars via the [Evotar Admin Panel](https://evotars.inferst.com) here: [Commands](https://evotars.inferst.com/admin/commands)
 
 
 ### Make Evotar Jump
@@ -95,7 +95,7 @@ Enable Twitch chat commands for evotars in the [Evotar Admin Panel](https://evot
 
 ## 💰 Using Twitch Channel Points
 
-Enable Twitch channel redeems for evotars  [Evotar Admin Panel](https://evotars.inferst.com) here: [Twitch Rewards](https://evotars.inferst.com/admin/rewards).
+Enable Twitch channel redeems for evotars via the [Evotar Admin Panel](https://evotars.inferst.com) here: [Twitch Rewards](https://evotars.inferst.com/admin/rewards).
 * Action: Select from the pull-down menu
 * Title: Name of the reward (this will be displayed in the Twitch channel)
 * Cost: How many channel points is needed to redeem this reward
