@@ -1,6 +1,8 @@
-# Welcome to the Evotars wiki!
+# Evotars Documentation for Twitch Streamers
 
-[Evotars Admin Panel](https://evotars.inferst.com) | [OBS Project Link](https://obsproject.com/forum/resources/evotars-%E2%80%93-lightweight-stream-avatars-for-chat.2146/) | [OBS Forum Link](https://obsproject.com/forum/threads/evotars-%E2%80%93-lightweight-stream-avatars-for-chat.185990/) | [Github Readme](https://github.com/inferst/evotars-app/blob/main/README.md)
+One-stop doc to setup Evotars in your stream!
+
+[Evotars Admin Panel](https://evotars.inferst.com) | [Evotars Wiki](https://github.com/stsynna/evotars/wiki) | [OBS Project Link](https://obsproject.com/forum/resources/evotars-%E2%80%93-lightweight-stream-avatars-for-chat.2146/) | [OBS Forum Link](https://obsproject.com/forum/threads/evotars-%E2%80%93-lightweight-stream-avatars-for-chat.185990/) | [Github Readme](https://github.com/inferst/evotars-app/blob/main/README.md)
 
 <!-- This Wiki was consolidated and edited by @stsynna st.synna@gmail.com, please inform them for any errors/updates-->
 
