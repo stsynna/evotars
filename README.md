@@ -157,9 +157,3 @@ You can hide specific users (e.g. bots) from having an evotar to avoid clutterin
 
 2. Refresh OBS browser source for the changes to take effect. This will reset the overlay.
 
-
-
-1. Under 'Users', type in Twitch username(s) you don't want evotars for. Use space to separate the usernames, e.g. user1 user2 user3
-
-2. Refresh OBS browser source for the changes to take effect. This will reset the overlay.
-
