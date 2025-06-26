@@ -10,7 +10,7 @@ One-stop doc to setup Evotars in your stream!
 
 ## What are Evotars?
 
-* Evotars are free browser-based avatars for Twitch chatters and viewers. It turns Twitch viewers and chatters into interactive game-like characters that react to chat and perform commands.
+* Evotars are free browser-based avatars in Twitch streams, where viewers and chatters will turn into interactive game-like characters that react to chat and perform commands.
 * It’s lightweight and easy to set up, perfect for small streamers who want to engage with their audience and grow their channel.
 
 
